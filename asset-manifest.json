@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/sos-build/static/css/main.26bc1c26.chunk.css",
-    "main.js": "/sos-build/static/js/main.aee34464.chunk.js",
-    "main.js.map": "/sos-build/static/js/main.aee34464.chunk.js.map",
+    "main.js": "/sos-build/static/js/main.4a0277e0.chunk.js",
+    "main.js.map": "/sos-build/static/js/main.4a0277e0.chunk.js.map",
     "runtime-main.js": "/sos-build/static/js/runtime-main.ff15fbcf.js",
     "runtime-main.js.map": "/sos-build/static/js/runtime-main.ff15fbcf.js.map",
     "static/css/2.e7f3f9d7.chunk.css": "/sos-build/static/css/2.e7f3f9d7.chunk.css",
@@ -33,6 +33,6 @@
     "static/css/2.e7f3f9d7.chunk.css",
     "static/js/2.17743227.chunk.js",
     "static/css/main.26bc1c26.chunk.css",
-    "static/js/main.aee34464.chunk.js"
+    "static/js/main.4a0277e0.chunk.js"
   ]
 }
