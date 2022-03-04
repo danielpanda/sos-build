@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/sos-build/static/css/main.2188fcef.chunk.css",
-    "main.js": "/sos-build/static/js/main.bb6d83b3.chunk.js",
-    "main.js.map": "/sos-build/static/js/main.bb6d83b3.chunk.js.map",
+    "main.css": "/sos-build/static/css/main.c043d30d.chunk.css",
+    "main.js": "/sos-build/static/js/main.70e8a2d6.chunk.js",
+    "main.js.map": "/sos-build/static/js/main.70e8a2d6.chunk.js.map",
     "runtime-main.js": "/sos-build/static/js/runtime-main.ff15fbcf.js",
     "runtime-main.js.map": "/sos-build/static/js/runtime-main.ff15fbcf.js.map",
     "static/css/2.e7f3f9d7.chunk.css": "/sos-build/static/css/2.e7f3f9d7.chunk.css",
@@ -12,14 +12,14 @@
     "static/js/3.506c3ae2.chunk.js.map": "/sos-build/static/js/3.506c3ae2.chunk.js.map",
     "index.html": "/sos-build/index.html",
     "static/css/2.e7f3f9d7.chunk.css.map": "/sos-build/static/css/2.e7f3f9d7.chunk.css.map",
-    "static/css/main.2188fcef.chunk.css.map": "/sos-build/static/css/main.2188fcef.chunk.css.map",
+    "static/css/main.c043d30d.chunk.css.map": "/sos-build/static/css/main.c043d30d.chunk.css.map",
     "static/js/2.21d67ba4.chunk.js.LICENSE.txt": "/sos-build/static/js/2.21d67ba4.chunk.js.LICENSE.txt",
     "static/media/devin.352db9f9.jpg": "/sos-build/static/media/devin.352db9f9.jpg",
     "static/media/ino.7c39a73a.jpg": "/sos-build/static/media/ino.7c39a73a.jpg",
     "static/media/jazz.f7e3c4b8.png": "/sos-build/static/media/jazz.f7e3c4b8.png",
     "static/media/jojo.79465a3e.jpg": "/sos-build/static/media/jojo.79465a3e.jpg",
     "static/media/klency.7d59b037.jpg": "/sos-build/static/media/klency.7d59b037.jpg",
-    "static/media/logo_circle.b5feb103.png": "/sos-build/static/media/logo_circle.b5feb103.png",
+    "static/media/logo_circle.bd038b14.png": "/sos-build/static/media/logo_circle.bd038b14.png",
     "static/media/mark.b65a052f.jpg": "/sos-build/static/media/mark.b65a052f.jpg",
     "static/media/pop.a521b9e9.png": "/sos-build/static/media/pop.a521b9e9.png",
     "static/media/style.css": "/sos-build/static/media/pre.d4812f51.svg",
@@ -34,7 +34,7 @@
     "static/js/runtime-main.ff15fbcf.js",
     "static/css/2.e7f3f9d7.chunk.css",
     "static/js/2.21d67ba4.chunk.js",
-    "static/css/main.2188fcef.chunk.css",
-    "static/js/main.bb6d83b3.chunk.js"
+    "static/css/main.c043d30d.chunk.css",
+    "static/js/main.70e8a2d6.chunk.js"
   ]
 }
